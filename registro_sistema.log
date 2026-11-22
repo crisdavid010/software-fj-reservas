@@ -1,0 +1,42 @@
+2026-11-22 06:42:15 - INFO - === INICIO DEL SISTEMA SOFTWARE FJ ===
+2026-11-22 06:42:15 - INFO - Cliente registrado: Cliente [C01]: Cristian Alvarez (cristian@correo.com)
+2026-11-22 06:42:15 - INFO - Cliente registrado: Cliente [C02]: Maria Lopez (maria@correo.com)
+2026-11-22 06:42:15 - ERROR - Validación capturada: El correo 'pedrocorreo.com' no es válido (le falta '@').
+2026-11-22 06:42:15 - ERROR - Error al agregar cliente: El cliente con ID C01 ya existe.
+2026-11-22 06:42:15 - INFO - Servicio registrado: Servicio [S01]: Sala de Juntas A - $50000/hora (Libre)
+2026-11-22 06:42:15 - INFO - Servicio registrado: Servicio [S02]: Portátil Gamer - $30000/hora (Libre)
+2026-11-22 06:42:15 - INFO - Servicio registrado: Servicio [S03]: Asesoría en Python - $80000/hora (Libre)
+2026-11-22 06:42:15 - ERROR - Servicio inválido: El precio por hora debe ser mayor a 0.
+2026-11-22 06:42:15 - INFO - Reserva exitosa: Reserva [R01] | Estado: CONFIRMADA | Cliente: Cristian Alvarez | Servicio: S01 | Total: $166600.0
+2026-11-22 06:42:15 - ERROR - No se pudo completar la reserva R02 -> Motivo: El servicio S01 no está disponible.
+2026-11-22 06:42:15 - ERROR - No se pudo completar la reserva R03 -> Motivo: El alquiler de equipos requiere mínimo 2 horas.
+2026-11-22 06:42:15 - INFO - Reserva exitosa: Reserva [R04] | Estado: CONFIRMADA | Cliente: Maria Lopez | Servicio: S03 | Total: $190400.0
+2026-11-22 06:42:15 - INFO - Reserva cancelada: Reserva [R01] | Estado: CANCELADA | Cliente: Cristian Alvarez | Servicio: S01 | Total: $166600.0
+2026-11-22 06:43:28 - INFO - === INICIO DEL SISTEMA SOFTWARE FJ ===
+2026-11-22 06:43:28 - INFO - Cliente registrado: Cliente [C01]: Cristian Alvarez (cristian.david010@gmail.com)
+2026-11-22 06:43:28 - INFO - Cliente registrado: Cliente [C02]: Maria Lopez (maria.lopez@yahoo.com)
+2026-11-22 06:43:28 - ERROR - Validación capturada: El correo 'pedrocorreo.com' no es válido (le falta '@').
+2026-11-22 06:43:28 - ERROR - Error al agregar cliente: El cliente con ID C01 ya existe.
+2026-11-22 06:43:28 - INFO - Servicio registrado: Servicio [S01]: Sala de Juntas A - $50000/hora (Libre)
+2026-11-22 06:43:28 - INFO - Servicio registrado: Servicio [S02]: Portátil Gamer - $30000/hora (Libre)
+2026-11-22 06:43:28 - INFO - Servicio registrado: Servicio [S03]: Asesoría en Python - $80000/hora (Libre)
+2026-11-22 06:43:28 - ERROR - Servicio inválido: El precio por hora debe ser mayor a 0.
+2026-11-22 06:43:28 - INFO - Reserva exitosa: Reserva [R01] | Estado: CONFIRMADA | Cliente: Cristian Alvarez | Servicio: S01 | Total: $166600.0
+2026-11-22 06:43:28 - ERROR - No se pudo completar la reserva R02 -> Motivo: El servicio S01 no está disponible.
+2026-11-22 06:43:28 - ERROR - No se pudo completar la reserva R03 -> Motivo: El alquiler de equipos requiere mínimo 2 horas.
+2026-11-22 06:43:28 - INFO - Reserva exitosa: Reserva [R04] | Estado: CONFIRMADA | Cliente: Maria Lopez | Servicio: S03 | Total: $190400.0
+2026-11-22 06:43:28 - INFO - Reserva cancelada: Reserva [R01] | Estado: CANCELADA | Cliente: Cristian Alvarez | Servicio: S01 | Total: $166600.0
+2026-11-22 06:44:47 - INFO - === INICIO DEL SISTEMA SOFTWARE FJ ===
+2026-11-22 06:44:47 - INFO - Cliente registrado: Cliente [C01]: Cristian Alvarez (cristian.david010@gmail.com)
+2026-11-22 06:44:47 - INFO - Cliente registrado: Cliente [C02]: Maria Lopez (maria.lopez@yahoo.com)
+2026-11-22 06:44:47 - ERROR - Validación capturada: El correo 'pedrocorreo.com' no es válido (le falta '@').
+2026-11-22 06:44:47 - ERROR - Error al agregar cliente: El cliente con ID C01 ya existe.
+2026-11-22 06:44:47 - INFO - Servicio registrado: Servicio [S01]: Sala de Juntas A - $50000/hora (Libre)
+2026-11-22 06:44:47 - INFO - Servicio registrado: Servicio [S02]: Portátil Gamer - $30000/hora (Libre)
+2026-11-22 06:44:47 - INFO - Servicio registrado: Servicio [S03]: Asesoría en Python - $80000/hora (Libre)
+2026-11-22 06:44:47 - ERROR - Servicio inválido: El precio por hora debe ser mayor a 0.
+2026-11-22 06:44:47 - INFO - Reserva exitosa: Reserva [R01] | Estado: CONFIRMADA | Cliente: Cristian Alvarez | Servicio: S01 | Total: $166600.0
+2026-11-22 06:44:47 - ERROR - No se pudo completar la reserva R02 -> Motivo: El servicio S01 no está disponible.
+2026-11-22 06:44:47 - ERROR - No se pudo completar la reserva R03 -> Motivo: El alquiler de equipos requiere mínimo 2 horas.
+2026-11-22 06:44:47 - INFO - Reserva exitosa: Reserva [R04] | Estado: CONFIRMADA | Cliente: Maria Lopez | Servicio: S03 | Total: $190400.0
+2026-11-22 06:44:47 - INFO - Reserva cancelada: Reserva [R01] | Estado: CANCELADA | Cliente: Cristian Alvarez | Servicio: S01 | Total: $166600.0
