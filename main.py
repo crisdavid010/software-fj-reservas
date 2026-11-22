@@ -12,14 +12,14 @@ print("--- INICIANDO PRUEBAS DEL SISTEMA SOFTWARE FJ ---\n")
 
 # 1. Crear y registrar cliente válido
 try:
-    c1 = Cliente("C01", "Cristian Alvarez", "cristian@correo.com")
+    c1 = Cliente("C01", "Cristian Alvarez", "cristian.david010@gmail.com")
     sistema.agregar_cliente(c1)
 except ErrorSoftwareFJ as e:
     logging.error(e)
 
 # 2. Crear y registrar segundo cliente válido
 try:
-    c2 = Cliente("C02", "Maria Lopez", "maria@correo.com")
+    c2 = Cliente("C02", "Maria Lopez", "maria.lopez@yahoo.com")
     sistema.agregar_cliente(c2)
 except ErrorSoftwareFJ as e:
     logging.error(e)
